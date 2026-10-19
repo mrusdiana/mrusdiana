@@ -1,23 +1,21 @@
-<!-- Profile README for github.com/mrusdiana — save this file in the repository mrusdiana/mrusdiana -->
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EA580C,50:F97316,100:FDBA74&height=230&section=header&text=MUHAMAD%20RUSDIANA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Muhamad Rusdiana — Full-Stack JavaScript Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:4338CA,70:7C3AED,100:EC4899&height=230&section=header&text=MUHAMAD%20RUSDIANA&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Muhamad Rusdiana — Full-Stack JavaScript Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=680&height=45&lines=From+UI+to+API%2C+end+to+end.;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+AI-powered+%26+real-time+apps;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+JLPT+N2+%F0%9F%87%AF%F0%9F%87%B5" alt="From UI to API, end to end. React, Next.js, Node.js, PostgreSQL. Building AI-powered and real-time apps. JLPT N2." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&height=45&lines=From+UI+to+API%2C+end+to+end.;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Building+AI-powered+%26+real-time+apps;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+JLPT+N2+%F0%9F%87%AF%F0%9F%87%B5" alt="From UI to API, end to end. React, Next.js, Node.js, PostgreSQL. Building AI-powered and real-time apps. JLPT N2." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bekasi,_Indonesia-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bekasi, Indonesia" />
-  <img src="https://img.shields.io/badge/Hacktiv8_Graduate-EA580C?style=for-the-badge&logo=javascript&logoColor=white" alt="Hacktiv8 Graduate" />
-  <img src="https://img.shields.io/badge/🇯🇵_JLPT_N2-BE123C?style=for-the-badge" alt="JLPT N2" />
+  <img src="https://img.shields.io/badge/Bekasi,_Indonesia-1E1B4B?style=for-the-badge&logo=googlemaps&logoColor=F472B6" alt="Bekasi, Indonesia" />
+  <img src="https://img.shields.io/badge/Hacktiv8_Graduate-1E1B4B?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="Hacktiv8 Graduate" />
+  <img src="https://img.shields.io/badge/🇯🇵_JLPT_N2-1E1B4B?style=for-the-badge" alt="JLPT N2" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/muhamad-rusdiana-99054b428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:muhamadrusdiana452@gmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://muhamad-rusdiana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-F97316?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:muhamadrusdiana452@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://muhamad-rusdiana.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <br />
@@ -146,7 +144,7 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
 <p>
-<a href="https://app.dolanan.my.id/"><img src="https://img.shields.io/badge/Live_Demo_↗-EA580C?style=flat" height="26" alt="Dolan live demo" /></a>
+<a href="https://app.dolanan.my.id/"><img src="https://img.shields.io/badge/Live_Demo_↗-7C3AED?style=flat" height="26" alt="Dolan live demo" /></a>
 <a href="https://github.com/Dolan-Project/dolan-repo"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" height="26" alt="Dolan source code" /></a>
 </p>
 </td>
@@ -173,7 +171,7 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
 </p>
 <p>
-<a href="https://berybox.web.id"><img src="https://img.shields.io/badge/Live_Demo_↗-EA580C?style=flat" height="26" alt="BeryBox live demo" /></a>
+<a href="https://berybox.web.id"><img src="https://img.shields.io/badge/Live_Demo_↗-7C3AED?style=flat" height="26" alt="BeryBox live demo" /></a>
 <a href="https://github.com/mrusdiana/berybox"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" height="26" alt="BeryBox source code" /></a>
 </p>
 </td>
@@ -202,7 +200,7 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
 </p>
 <p>
-<a href="https://renaiflix.my.id"><img src="https://img.shields.io/badge/Live_Demo_↗-EA580C?style=flat" height="26" alt="RenAiFlix live demo" /></a>
+<a href="https://renaiflix.my.id"><img src="https://img.shields.io/badge/Live_Demo_↗-7C3AED?style=flat" height="26" alt="RenAiFlix live demo" /></a>
 <a href="https://github.com/mrusdiana/renaiflix"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" height="26" alt="RenAiFlix source code" /></a>
 </p>
 </td>
@@ -228,7 +226,7 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod" />
 </p>
 <p>
-<a href="https://mimoo-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo_↗-EA580C?style=flat" height="26" alt="Mimoo live demo" /></a>
+<a href="https://mimoo-zeta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo_↗-7C3AED?style=flat" height="26" alt="Mimoo live demo" /></a>
 <a href="https://github.com/mrusdiana/mimoo"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" height="26" alt="Mimoo source code" /></a>
 </p>
 </td>
@@ -273,12 +271,12 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 <p align="center">
   <b>Let's build something together.</b><br />
   <sub>Always happy to talk about web development, AI, or life in Japan 🇯🇵</sub><br /><br />
-  <a href="mailto:muhamadrusdiana452@gmail.com"><img src="https://img.shields.io/badge/Say_hello-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="mailto:muhamadrusdiana452@gmail.com"><img src="https://img.shields.io/badge/Say_hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
   <a href="https://linkedin.com/in/muhamad-rusdiana-99054b428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrusdiana.mrusdiana&left_text=Profile%20views&left_color=0F766E&right_color=F97316" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrusdiana.mrusdiana&left_text=Profile%20views&left_color=1E1B4B&right_color=7C3AED" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FDBA74,50:F97316,100:EA580C&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,30:7C3AED,65:4338CA,100:0F172A&height=120&section=footer" alt="" />
