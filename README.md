@@ -209,16 +209,16 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 ## GitHub Activity
 
 <p align="center">
-  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrusdiana&theme=tokyonight" alt="GitHub profile details and contribution graph" />
+  <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrusdiana&theme=radical" alt="GitHub profile details and contribution graph" />
 </p>
 
 <p align="center">
-  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrusdiana&theme=tokyonight" alt="GitHub stats" />
-  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrusdiana&theme=tokyonight" alt="Most-used languages" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrusdiana&theme=radical" alt="GitHub stats" />
+  <img width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrusdiana&theme=radical" alt="Most-used languages" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=mrusdiana&hide_border=true&border_radius=12&background=1A1B27&stroke=3B3A5C&ring=A78BFA&fire=EC4899&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=EC4899&sideLabels=C4B5FD&dates=94A3B8" alt="Contribution streak" />
+  <img width="55%" src="https://streak-stats.demolab.com/?user=mrusdiana&hide_border=true&border_radius=12&background=141321&stroke=FE428E&ring=FE428E&fire=F8D847&currStreakNum=FFFFFF&sideNums=A9FEF7&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7" alt="Contribution streak" />
 </p>
 
 <br />
@@ -231,7 +231,7 @@ My path here wasn't typical: before writing code, I spent **three years in a shi
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrusdiana&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrusdiana.mrusdiana&left_text=Profile%20views&left_color=141321&right_color=FE428E" alt="Profile views" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,30:7C3AED,65:4338CA,100:0F172A&height=120&section=footer" alt="" />
